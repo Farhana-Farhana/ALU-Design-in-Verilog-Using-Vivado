@@ -29,7 +29,7 @@ The ALU supports the following operations:
 |------|-------------|
 | `alu.v` | Main ALU design |
 | `alu_tb.v` | Testbench for simulation |
-| `waveform.png` | Output waveform from simulation |
+| `sim.png` | Output waveform from simulation |
 
 ---
 
